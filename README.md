@@ -62,7 +62,7 @@ Screenshots: available in '/screenshots' folder
 
 Created by Julia Stróżyńska  
 Email: julia.strozynska@onet.pl 
-LinkedIn: (https://www.linkedin.com/in/julia-strozyska)
+LinkedIn: (https://www.linkedin.com/in/julia-strozynska)
 
 ---
 
